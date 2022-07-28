@@ -1,2 +1,2 @@
 # JavaScript_SoftUni
-JavaScript homework in SoftUni
+Homework from JavaScript Programming courses in SoftUni (https://softuni.bg/)
