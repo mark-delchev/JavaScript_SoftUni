@@ -2,7 +2,7 @@ function multiply(input)
 {
 
     let num = Number(input[0])
-    let str_num = num.toString
+    let str_num = num.toString()
     let num1 = Number(str_num[2])
     let num2 = Number(str_num[1])
     let num3 = Number(str_num[0])
@@ -12,11 +12,11 @@ function multiply(input)
         {
             for (let k = 1; k < num3 + 1; k++)
             {
-                console.log(`${i} * ${j} * ${k} = ${i * j * k}`)
+                console.log(`${i} * ${j} * ${k} = ${i * j * k};`)
             }
         }
     }
             
 }
 
-multiply(["1", "2", "3"])
+multiply(["222"])
